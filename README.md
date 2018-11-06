@@ -1,4 +1,4 @@
-## Vipassana.live - Instant Meditation Practice App
+## Vipassana.live - Instant Meditation App
 
 Experience it at __https://vipassana.live__
 
