@@ -2,7 +2,7 @@
 
 Experience it at __https://vipassana.live__
 
-The app is written in Vue.js and this is its source code repository.
+It's a Vue.js PWA app.
 <br>
 <br>
 
