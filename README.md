@@ -34,6 +34,8 @@ The core principle of Vipassana is not to expect anything and accept everything.
 
 The experiences that you notice can be your body sensations, feelings or thoughts. They are represented in the practice window by eight symbols. Every time you notice an experience, click on its symbol. It can appear several times repeatedly, then just notice-click it several times.
 
+![types-of-experiences](https://vipassana.live/img/github-03.png)
+
 In general, there are many ways how Vipassana can be practiced. Currently the most popular is S. N. Goenka's tradition. Most often it takes a 10-day silent retreat, sometimes it gives exceptionally great results, and after the practice, a student is instructed to continue meditating on his or her own, one hour in the morning and one hour in the evening. Most of the students never continue this individual practice because it requires too much effort. 
 
 Besides Goenka's Vipassana, there is also another modern way of practicing it, instructed by Shinzen Young in his audiobook "Five Classic Meditations". 
