@@ -34,6 +34,8 @@ The core principle of Vipassana is not to expect anything and accept everything.
 
 The experiences that you notice can be your body sensations, feelings or thoughts. They are represented in the practice window by eight symbols. Every time you notice an experience, click on its symbol. It can appear several times repeatedly, then just notice-click it several times.
 
+The eight symbols represent the following experiences:
+
 ![types-of-experiences](https://vipassana.live/img/github-03.png)
 
 In general, there are many ways how Vipassana can be practiced. Currently the most popular is S. N. Goenka's tradition. Most often it takes a 10-day silent retreat, sometimes it gives exceptionally great results, and after the practice, a student is instructed to continue meditating on his or her own, one hour in the morning and one hour in the evening. Most of the students never continue this individual practice because it requires too much effort. 
@@ -44,9 +46,7 @@ While Goenka's version of Vipassana is more profound and can bring more signific
 
 This app is not a substitute for a 10 days retreat, but it can work efficiently under any modern living conditions. The practice is immediate because of the gamified nature of the app - you can "play" it only when you shift your attention to your inner world. When you play-meditate with the app, you detach from the stimulating environment and start observing what is happening inside - this practice is centering, relaxing and leads to meaningful insights. A quick break from being always busy. 
 
-You can install this web app on your mobile device and use it even when you are offline. It doesn't require an internet connection. 
-
-Vipassana.live is an open source project and open to new interpretations, ideas and improvements.
+You can install this PWA app on your mobile device and use it even when you are offline. It doesn't require an internet connection. 
 <br>
 <br>
 
