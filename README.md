@@ -2,7 +2,7 @@
 
 Experience it at __https://vipassana.live__
 
-It's a Vue.js PWA app.
+It's a Vue.js Progressive Web App (PWA).
 <br>
 <br>
 
