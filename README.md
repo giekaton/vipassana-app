@@ -1,6 +1,6 @@
-## Vipassana.live - Instant Meditation App
+## Vipassana App - Instant Meditation Practice
 
-Experience it at __https://vipassana.live__
+Experience it at __https://vipassana.app__
 
 It's a Vue.js Progressive Web App (PWA).
 <br>
@@ -18,13 +18,13 @@ Compiles and minifies for production: `npm run build`
 
 #### Screenshots
 
-![shot-01](https://vipassana.live/img/github-01.png)
+![shot-01](https://vipassana.app/img/github-01.png)
 
-![shot-02](https://vipassana.live/img/github-02.png)
+![shot-02](https://vipassana.app/img/github-02.png)
 <br>
 <br>
 
-#### About Vipassana.live
+#### About Vipassana App
 
 Vipassana is a classic Buddhist meditation. It can be practiced by anyone, as there is nothing inherently religious about it.
 
@@ -36,7 +36,7 @@ The experiences that you notice can be your body sensations, feelings or thought
 
 The eight symbols represent the following experiences:
 
-![types-of-experiences](https://vipassana.live/img/github-03.png)
+![types-of-experiences](https://vipassana.app/img/github-03.png)
 
 In general, there are many ways how Vipassana can be practiced. Currently the most popular is S. N. Goenka's tradition. Most often it takes a 10-day silent retreat, sometimes it gives exceptionally great results, and after the practice, a student is instructed to continue meditating on his or her own, one hour in the morning and one hour in the evening. Most of the students never continue this individual practice because it requires too much effort. 
 
@@ -52,7 +52,7 @@ You can install this PWA app on your mobile device and use it even when you are 
 
 #### Issues
 
-Report issues in [issue tracker](https://github.com/giekaton/vipassana.live/issues).
+Report issues in [issue tracker](https://github.com/giekaton/vipassana-app/issues).
 <br>
 <br>
 
