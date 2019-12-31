@@ -35,7 +35,7 @@
 
         <path @click="onTap(7)" class="touch-area el-taste" d="M193.83,365.42a31.08,31.08,0,1,0,31.08,31.08,31.08,31.08,0,0,0-31.08-31.08h0Z" transform="translate(-162 -253)">
         </path>
-        <path class="elements element-7" d="M193.83,366.17a30.33,30.33,0,1,0,21.45,8.88,30.23,30.23,0,0,0-21.45-8.88h0Zm-20.14,27.52a0.75,0.75,0,0,0-.07.39v0a0.76,0.76,0,0,0,.17.54h0c0,0.05.61,0.74,1.61,1.74a39.43,39.43,0,0,0,4.21,3.66l0.58,0.42,0.58,0.41,0.11,0.08v0.13a13,13,0,1,0,25.9,0V401l0.11-.07,0.58-.41,0.58-.42a39.16,39.16,0,0,0,3.13-2.61,31.69,31.69,0,0,0,2.7-2.79,0.75,0.75,0,0,0,.14-0.25h0a0.77,0.77,0,0,0,0-.29v0a0.75,0.75,0,0,0-.07-0.39h0a0.75,0.75,0,0,0-.26-0.3l-0.07-.07a37,37,0,0,0-7.56-8.34,18.47,18.47,0,0,0-8-3.85h0a2.27,2.27,0,0,0-1.08.07,2.25,2.25,0,0,0-.92.56l-1.75,1.75h0a0.75,0.75,0,0,1-1.05,0h0l-1.75-1.75h0a2.26,2.26,0,0,0-2-.62h0a18.49,18.49,0,0,0-8,3.84,37,37,0,0,0-7.56,8.34l-0.07.07a0.76,0.76,0,0,0-.26.3h0Zm22.64-10c1.06-1.07,1.1-1.11,1.51-1h0a16.3,16.3,0,0,1,6.63,3,33.6,33.6,0,0,1,6.53,6.57l-0.25.39c-1.77-.4-3.63-0.78-5.5-1.11s-3.73-.63-5.58-0.87a5.63,5.63,0,0,0-4.7,1.59,1.61,1.61,0,0,1-2.28,0,5.64,5.64,0,0,0-4.7-1.59c-1.85.25-3.73,0.54-5.58,0.87s-3.72.71-5.5,1.11l-0.25-.39a33.72,33.72,0,0,1,6.53-6.57,16.28,16.28,0,0,1,6.62-3h0c0.41-.07.45,0,1.51,1l0.91,0.91h0a2.24,2.24,0,0,0,.73.49h0a2.28,2.28,0,0,0,1.73,0h0a2.26,2.26,0,0,0,.73-0.49l0.91-.91h0Zm13.19,13.23c-0.69.61-1.47,1.26-2.34,1.91l-0.4.3v-5.77l0.3,0.06,2.32,0.48,2.2,0.5,0.42,0.1-0.3.31c-0.54.56-1.28,1.29-2.19,2.1h0Zm-23.78,12.41a11.41,11.41,0,0,1-3.36-8.09h0V393l0.2,0c0.88-.16,1.81-0.32,2.78-0.47s1.81-.27,2.76-0.4a4.25,4.25,0,0,1,1.9.17,4.06,4.06,0,0,1,1.6,1,3.11,3.11,0,0,0,1.28.77l0.18,0.05v7.76a0.75,0.75,0,1,0,1.51,0v-7.76l0.18-.05a3.11,3.11,0,0,0,1.27-.77h0a4.12,4.12,0,0,1,3.43-1.16c0.93,0.12,1.86.26,2.79,0.4s1.88,0.31,2.81.47l0.21,0v8.16a11.44,11.44,0,0,1-19.53,8.09h0Zm-4.86-15.66v5.47l-0.4-.3c-0.87-.65-1.66-1.31-2.35-1.92-0.92-.81-1.66-1.55-2.19-2.1l-0.3-.31,0.42-.1,1.93-.44c0.75-.17,1.62-0.35,2.59-0.54l0.3-.06v0.3h0ZM171.32,374A31.83,31.83,0,1,1,162,396.5,31.73,31.73,0,0,1,171.32,374h0Z" transform="translate(-162 -253)"/>
+        <path class="elements element-7" d="M367.83,250.17a30.33,30.33,0,1,1-21.45,8.88,30.23,30.23,0,0,1,21.45-8.88h0ZM348,277.39l0.07-.07a37,37,0,0,1,7.56-8.34,18.49,18.49,0,0,1,8-3.84h0a2.27,2.27,0,0,1,1.08.07,2.24,2.24,0,0,1,.92.56h0l1.75,1.75h0a0.75,0.75,0,0,0,1.05,0h0l1.75-1.75a2.25,2.25,0,0,1,.92-0.56,2.28,2.28,0,0,1,1.08-.07h0a18.48,18.48,0,0,1,8,3.85,37,37,0,0,1,7.56,8.34l0.07,0.07a0.8,0.8,0,0,1,.32.49,0.94,0.94,0,0,1-.31.95,33.76,33.76,0,0,1-2.55,2.61,39.16,39.16,0,0,1-3.13,2.61l-0.58.42-0.69.48c0,0.48,0,.95-0.06,1.42a12.91,12.91,0,0,1-21.2,8.74,13.42,13.42,0,0,1-4.25-6.82,12.65,12.65,0,0,1-.36-2.23c0-.37,0-0.74,0-1.11l-0.69-.48-0.58-.42a39.44,39.44,0,0,1-4.22-3.66c-0.57-.57-1-1-1.27-1.35a1.34,1.34,0,0,1-.52-1,0.85,0.85,0,0,1,.34-0.69h0Zm22.38-9.73-0.91.91a2.25,2.25,0,0,1-.73.49h0a2.28,2.28,0,0,1-1.73,0h0a2.24,2.24,0,0,1-.73-0.49h0l-0.91-.91c-1.06-1.07-1.1-1.12-1.51-1h0a16.28,16.28,0,0,0-6.62,3,33.7,33.7,0,0,0-6.53,6.57l0.25,0.39c1.77-.4,3.63-0.78,5.5-1.11s3.73-.63,5.58-0.87a5.64,5.64,0,0,1,4.7,1.59,1.61,1.61,0,0,0,2.28,0,5.63,5.63,0,0,1,4.7-1.59c1.85,0.25,3.73.54,5.58,0.87s3.73,0.71,5.5,1.11l0.25-.39a33.58,33.58,0,0,0-6.53-6.57,16.29,16.29,0,0,0-6.63-3h0c-0.41-.07-0.45,0-1.51,1h0Zm13.19,13.23c0.92-.81,1.66-1.54,2.19-2.1l0.3-.31-0.42-.1-2.2-.5-2.32-.48-0.3-.06v5.77l0.4-.3c0.87-.65,1.66-1.31,2.34-1.91h0Zm-24.83,11.2a11.53,11.53,0,0,0,3.1,2.84,11.45,11.45,0,0,0,17.48-9.72V277l-0.21,0c-0.93-.17-1.87-0.33-2.81-0.47s-1.86-.28-2.79-0.4a4.12,4.12,0,0,0-3.43,1.16h0a3.11,3.11,0,0,1-1.27.77l-0.18.05v7.76a0.75,0.75,0,1,1-1.51,0v-7.76l-0.18-.05a3.11,3.11,0,0,1-1.28-.77,4.06,4.06,0,0,0-1.6-1,4.25,4.25,0,0,0-1.9-.17c-1,.13-1.87.26-2.76,0.4s-1.9.31-2.78,0.47l-0.21,0v6.55a15.41,15.41,0,0,0,.47,4.85,11.41,11.41,0,0,0,1.84,3.64h0Zm-3.81-14.46v-0.3l-0.3.06c-1,.19-1.83.37-2.59,0.54l-1.93.44-0.42.1,0.3,0.31c0.53,0.56,1.28,1.29,2.19,2.1,0.69,0.61,1.47,1.26,2.34,1.92l0.4,0.3v-5.47h0ZM345.32,258a31.83,31.83,0,1,0,22.51-9.32A31.73,31.73,0,0,0,345.32,258h0Z" transform="translate(-336 -137)"/>
 
         <path @click="onTap(8)" class="touch-area el-smell" d="M226.54,286.46a31.08,31.08,0,1,0,31.08,31.08,31.08,31.08,0,0,0-31.08-31.08h0Z" transform="translate(-162 -253)">
         </path>
@@ -216,7 +216,8 @@ export default {
         let seconds = data.stat.timeTotal / 1000;
         let minutes = Math.floor(seconds / 60);
         seconds = seconds - minutes * 60;
-        data.stat.timeMeditatedHtml = '<span style="font-size:19px;">'+ minutes + ' min. ' + Math.round(seconds) + ' sec.</span><br><span style="font-size:13px">Time meditated<br><br>' + new Date().toLocaleDateString("en-US", this.options) + '</span>';
+        data.stat.timeMeditatedHtml = '<span style="font-size:15px;">Time meditated: '+ minutes + ' min. ' + Math.round(seconds) + ' sec.</span><div class="metta-div">May all beings be peaceful<br>May all beings be happy<br>May all beings be safe<br>May all beings awaken to the light of their true nature<br>May all beings be free</div>';
+        // ' + new Date().toLocaleDateString("en-US", this.options) + '
 
         let maxEl = Math.max(data.stat.el1, data.stat.el2, data.stat.el3, data.stat.el4, data.stat.el5, data.stat.el6, data.stat.el7, data.stat.el8);
 
@@ -278,7 +279,9 @@ export default {
       let seconds = data.stat.timeTotal / 1000;
       let minutes = Math.floor(seconds / 60);
       seconds = seconds - minutes * 60;
-      data.stat.timeMeditatedHtml = '<span style="font-size:19px;">'+ minutes + ' min. ' + Math.round(seconds) + ' sec.</span><br><span style="font-size:13px">Time meditated<br><br>' + new Date().toLocaleDateString("en-US", this.options) + '</span>';
+      
+      data.stat.timeMeditatedHtml = '<span style="font-size:18px;">'+ minutes + ' min. ' + Math.round(seconds) + ' sec.</span><div class="metta-div">May all beings be peaceful<br>May all beings be happy<br>May all beings be safe<br>May all beings awaken to the light of their true nature<br>May all beings be free</div>';
+      // data.stat.timeMeditatedHtml = '<span style="font-size:19px;">'+ minutes + ' min. ' + Math.round(seconds) + ' sec.</span><br><span style="font-size:13px">Time meditated<br><br>' + new Date().toLocaleDateString("en-US", this.options) + '</span>';
 
       let maxEl = Math.max(data.stat.el1, data.stat.el2, data.stat.el3, data.stat.el4, data.stat.el5, data.stat.el6, data.stat.el7, data.stat.el8);
 
@@ -356,6 +359,10 @@ export default {
 
 
 <style scoped>
+
+.metta-div {
+  color:#719597;
+}
 
 .octagon {
   text-align: center;
@@ -484,7 +491,7 @@ export default {
 .chart-div {
   height: 190px;
   margin: 0 auto;
-  margin-bottom: 20px;
+  margin-bottom: 5px;
   padding-top: 10px;
   box-sizing: border-box;
 }
@@ -528,6 +535,7 @@ export default {
   box-sizing: border-box;
   position: relative;
   padding: 20px;
+  padding-top: 10px;
 
   background-color: var(--bg-stat-div-inner);
   border: var(--border-stat-div-inner);
