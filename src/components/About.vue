@@ -6,19 +6,21 @@
 
       <div class="modal-text" style="margin-top:10px;margin-left;">
 
-        <div style="height:20px;">
-          <br>
+        <!-- <div style="height:20px;">
+          <br> -->
           
-          <div style="display:inline-block;width:25px;margin-right:18px;">
+          <!-- <div style="display:inline-block;width:25px;margin-right:18px;">
             <a href="https://twitter.com/vipassanaapp" title="Twitter" target="_blank">
               <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 124.11 124.11"><title>Twitter</title><path d="M199.05,335a62.05,62.05,0,1,0,62.05,62.05A62.05,62.05,0,0,0,199.05,335h0Zm46.81,39.49a35.82,35.82,0,0,1-10.3,2.82,18,18,0,0,0,7.88-9.92,35.93,35.93,0,0,1-11.39,4.35,17.94,17.94,0,0,0-30.55,16.35,50.9,50.9,0,0,1-37-18.74,18,18,0,0,0,5.55,23.94,17.87,17.87,0,0,1-8.12-2.24c0,0.07,0,.15,0,0.22a18,18,0,0,0,14.38,17.58,17.95,17.95,0,0,1-8.09.31A18,18,0,0,0,185,421.62,36.16,36.16,0,0,1,158.48,429,50.74,50.74,0,0,0,186,437.1c33,0,51-27.32,51-51q0-1.17-.05-2.32a36.45,36.45,0,0,0,8.94-9.28h0Z" transform="translate(-137 -335)" style="fill:#848688;fill-rule:evenodd"/></svg>
             </a>
-          </div>
-          <div style="display:inline-block;width:25px;">
+          </div> -->
+          <!-- <div style="display:inline-block;width:25px;">
             <a href="https://github.com/giekaton/vipassana-app" title="GitHub" target="_blank">
               <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 124.11 124.11"><title>GitHub</title><path d="M411.45,335a62.06,62.06,0,0,0-19.61,120.94c3.1,0.57,4.24-1.35,4.24-3,0-1.47-.05-5.38-0.08-10.55-17.26,3.75-20.9-8.32-20.9-8.32-2.82-7.17-6.89-9.08-6.89-9.08-5.63-3.85.43-3.77,0.43-3.77,6.23,0.44,9.51,6.39,9.51,6.39,5.53,9.48,14.52,6.74,18.06,5.16,0.56-4,2.17-6.74,3.94-8.3-13.78-1.57-28.27-6.89-28.27-30.67a24,24,0,0,1,6.39-16.65c-0.64-1.57-2.77-7.88.61-16.42,0,0,5.21-1.67,17.06,6.36a58.79,58.79,0,0,1,31.07,0c11.85-8,17-6.36,17-6.36,3.39,8.54,1.26,14.85.62,16.42A23.94,23.94,0,0,1,451,393.81c0,23.84-14.51,29.08-28.33,30.62,2.22,1.91,4.21,5.7,4.21,11.49,0,8.29-.08,15-0.08,17,0,1.66,1.12,3.59,4.27,3A62.06,62.06,0,0,0,411.45,335h0Z" transform="translate(-349.4 -335)" style="fill:#848688;fill-rule:evenodd"/></svg>
-            </a>
-          </div>
+            </a> -->
+          <!-- </div> -->
+
+          <div style="height:15px;display:inline-block;padding-top:3px;font-weight:bold;font-size:19px;color:#b9b9b9;">Vipassana App</div>
 
           <router-link to="/" class="close-btn" title="Close">
             ✕
@@ -104,22 +106,14 @@
           </ul>
           End by clicking on the center.
           <br>
-          <div style="margin-top:50px;"></div>
-          Vipassana App activates the inner observer instantly and effortlessly, and without the need to have prior meditation knowledge or experience. Even one minute of being in the "observer mode" can give huge benefits, because it breaks an ongoing pattern of thought, and allows us to look at things and experience them from a different, healthier and in some ways more powerful perspective.
-          <br>
-          <br>
-          You can 
-          <span v-if="$parent.mobileChrome" @click="installPWA" class="link-alike">install</span>
-          <span v-else>install</span> 
-          this web app on most of mobile and desktop devices and use it even when you are offline. It doesn't require an internet connection.
-          <br>
-          <div style="font-size:16px;margin-top:70px;"><b>About</b></div>
+
+          <div style="font-size:16px;margin-top:60px;"><b>About</b></div>
           <br>
           Vipassana is a classic Buddhist meditation. It can be practiced by anyone, as there is nothing inherently religious about it.
           <br>
           <br>
           Vipassana does not involve any esoteric techniques and the only thing required is to see reality the way it manifests
-          itself at any given moment. In Pali language word <i>vipasyana</i> means <i>seeing things clearly</i>, and this is the essence
+          itself at any given moment. In the Pali language word <i>vipasyana</i> means <i>seeing things clearly</i>, and this is the essence
           of Vipassana practice.
           <br>
           <br>
@@ -184,49 +178,43 @@
           </div>
           <br>
           <br>
+          <br>
           <div style="clear:both;"></div>
-          There are different ways how Vipassana can be practiced. Currently the most popular is S. N. Goenka's tradition. Most often it 
-          takes a 10-day silent retreat, sometimes it gives exceptionally great results, 
-          and after the practice, a student is instructed to continue meditating on his or her own, one hour in the morning and one hour in the 
-          evening. Most of the students never continue this individual practice because it requires too much effort.
+          There are different ways of how Vipassana can be practiced. Currently the most popular is S. N. Goenka's tradition. Most often it takes a 10-day silent retreat, sometimes it gives exceptionally great results, and after the practice, a student is instructed to continue meditating on his or her own, one hour in the morning and one hour in the evening. Most of the students do not continue this individual practice as it requires too much effort.
           <br>
           <br>
-          Besides Goenka's Vipassana, there is also another modern way of practicing it, instructed by Shinzen Young in his audiobook 
-          "Five Classic Meditations".
+          Besides Goenka's Vipassana, there is also another modern way of practicing it, instructed by Shinzen Young in his audiobook "Five Classic Meditations".
           <br>
           <br>
-          While Goenka's version of Vipassana is more profound and can bring more significant results, Shinzen Young's Vipassana is 
-          effective on a day to day basis. Even a few minutes of practice can give positive results. Therefore this app is based on the Shinzen 
-          Young's version of Vipassana.
+          While Goenka's version of Vipassana is more profound and can bring more significant results, Shinzen Young's Vipassana is effective on a day to day basis. Even a few minutes of practice can give positive results. Therefore this app is based on the Shinzen Young's version of Vipassana.
           <br>
           <br>
-          This app is not a substitute for the 10 days retreat, but it can work efficiently under any modern living conditions. The 
-          practice is immediate because of the gamified nature of the app - you can "play" it only when you shift your attention to your inner world. 
-          When you play-meditate this meditation game, you detach from the stimulating environment and start observing what is happening inside  
-          - this practice is centering, relaxing and leads to meaningful insights. A quick break from being always busy.
+          Because of its visual and gamified nature, Vipassana App works instantly and effortlessly. It activates our inner observer who is witnessing our experiences. Even one minute of the practice can break an ongoing pattern of thought or feeling, and allow us to look at our experiences from a different, healthier and in many ways more powerful state of being.
           <br>
           <br>
-          After each meditation session, you will see a little window with statistics about your experiences. The data is not saved anywhere and is restarted with every new session.
+          This app is not a substitute for the 10 days retreat, but it can work efficiently under any modern living conditions. The practice is immediate because of the gamified nature of the app - you can "play" it only when you shift your attention to your inner world. When you play-meditate with the Vipassana App, you detach from the stimulating environment and start observing what is happening inside - this practice is centering, relaxing and leads to meaningful insights. A quick break from being always busy.
+
+          <div style="font-size:16px;margin-top:60px;"><b>App</b></div>
+
+          <br>
+          You can 
+          <span v-if="$parent.mobileChrome" @click="installPWA" class="link-alike">install</span>
+          <span v-else>install</span> the 
+          Vipassana App on most of mobile and desktop devices and use it even when you are offline. It doesn't require an internet connection.
           <br>
           <br>
-          Additionally, in the same window, you will find the Metta Prayer words, also known as Loving Kindness Meditation. Metta is also practiced during the 10-day retreats. It is not attached to any particular religion or school of thought, therefore it is universal. The purpose of Metta statements is to create a positive and generous attitude towards all beings after Vipassana meditation practice.
+          Vipassana App is <a href="https://github.com/giekaton/vipassana-app" style="color:var(--color-a-social)"  target="_blank">open-source</a>.
           <br>
           <br>
-          <div style="font-size:16px;margin-top:50px;"><b>Contacts</b></div>
-          <br>
-          <div style="font-size:14px;">Are you using Vipassana App for your daily meditation practice? Let us know your feedback.</div>
-          <br>
-          &#104;i&#x40;v&#x69;p&#x61;s&#x73;a&#x6e;a&#x2e;&#97;&#x70;&#112;
-          &nbsp;|&nbsp;
-          <a href="https://twitter.com/vipassanaapp" style="color:var(--color-a-social)" target="_blank">Twitter</a>
-          &nbsp;|&nbsp;
-          <a href="https://github.com/giekaton/vipassana-app" style="color:var(--color-a-social)"  target="_blank">GitHub</a>
+          For contacts and feedback: &#104;i&#x40;v&#x69;p&#x61;s&#x73;a&#x6e;a&#x2e;&#97;&#x70;&#112;
+
+          <!-- After each meditation session, you will see a little window with statistics about your experiences. The data is not saved anywhere and is restarted with every new session. -->
           <br>
           <br>
           <br>
           <br>
           <span class="link-alike" v-on:click="$parent.closeModal">Close</span>
-          <div style="height:30px;"></div>
+          <div style="height:20px;"></div>
         </div>
 
       </div>

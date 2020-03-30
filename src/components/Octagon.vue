@@ -191,7 +191,7 @@ export default {
           let timer = this.$parent.timer * 60 * 1000;
           const self = this;
           self.timePassed = 0;
-          function timeCalc () {
+          function timeCalc() {
             self.timePassed += 1000;
             if (self.timePassed > timer) {
               clearInterval(timerVar);
@@ -216,8 +216,14 @@ export default {
         let seconds = data.stat.timeTotal / 1000;
         let minutes = Math.floor(seconds / 60);
         seconds = seconds - minutes * 60;
-        data.stat.timeMeditatedHtml = '<span style="font-size:15px;">Time meditated: '+ minutes + ' min. ' + Math.round(seconds) + ' sec.</span><div class="metta-div">May all beings be peaceful<br>May all beings be happy<br>May all beings be safe<br>May all beings awaken to the light of their true nature<br>May all beings be free</div>';
-        // ' + new Date().toLocaleDateString("en-US", this.options) + '
+        data.stat.timeMeditatedHtml = 'Time meditated: '+ minutes + ' min. ' + Math.round(seconds) + ' sec.';
+
+        // <div class="metta-div">May all beings be peaceful<br>May all beings be happy<br>May all beings be safe<br>May all beings awaken to the light of their true nature<br>May all beings be free</div>
+
+        data.stat.timeMeditatedHtml += '<br>Experiences: ' + (data.stat.el1 + data.stat.el2 + data.stat.el3 + data.stat.el4 + data.stat.el5 + data.stat.el6 + data.stat.el7 + data.stat.el8);
+
+        data.stat.timeMeditatedHtml += '<br><br>' + new Date().toLocaleDateString("en-US", this.options) + '</span>';
+
 
         let maxEl = Math.max(data.stat.el1, data.stat.el2, data.stat.el3, data.stat.el4, data.stat.el5, data.stat.el6, data.stat.el7, data.stat.el8);
 
@@ -246,7 +252,7 @@ export default {
         setTimeout(function () {
           el.classList.toggle('elements-active')
         },
-        130 * index)
+        110 * index)
       })
       
       this.$parent.firstVisit = false;
@@ -280,8 +286,13 @@ export default {
       let minutes = Math.floor(seconds / 60);
       seconds = seconds - minutes * 60;
       
-      data.stat.timeMeditatedHtml = '<span style="font-size:18px;">'+ minutes + ' min. ' + Math.round(seconds) + ' sec.</span><div class="metta-div">May all beings be peaceful<br>May all beings be happy<br>May all beings be safe<br>May all beings awaken to the light of their true nature<br>May all beings be free</div>';
-      // data.stat.timeMeditatedHtml = '<span style="font-size:19px;">'+ minutes + ' min. ' + Math.round(seconds) + ' sec.</span><br><span style="font-size:13px">Time meditated<br><br>' + new Date().toLocaleDateString("en-US", this.options) + '</span>';
+      data.stat.timeMeditatedHtml = 'Time meditated: '+ minutes + ' min. ' + Math.round(seconds) + ' sec.';
+
+      // <div class="metta-div">May all beings be peaceful<br>May all beings be happy<br>May all beings be safe<br>May all beings awaken to the light of their true nature<br>May all beings be free</div>
+
+      data.stat.timeMeditatedHtml += '<br>Experiences: ' + (data.stat.el1 + data.stat.el2 + data.stat.el3 + data.stat.el4 + data.stat.el5 + data.stat.el6 + data.stat.el7 + data.stat.el8);
+
+      data.stat.timeMeditatedHtml += '<br><br>' + new Date().toLocaleDateString("en-US", this.options) + '</span>';
 
       let maxEl = Math.max(data.stat.el1, data.stat.el2, data.stat.el3, data.stat.el4, data.stat.el5, data.stat.el6, data.stat.el7, data.stat.el8);
 
@@ -329,7 +340,7 @@ export default {
         data.stat[elX]++;
         if (this.soundFx) data.sound.soundTouch.cloneNode(true).play();
         toggle();
-        setTimeout(toggle, 200);
+        setTimeout(toggle, 150);
       }
     },
 

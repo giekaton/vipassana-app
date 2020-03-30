@@ -4,13 +4,13 @@
 
     <div style="width:25px;" id="menu-btn" @click="openModal">
       <svg v-if="!firstVisit" viewBox="0 0 58 49" id="menu" class="menu">
-        <title>Menu</title>
+        <!-- <title>Menu</title> -->
         <rect width="58" height="8.5" rx="2" ry="2"/>
         <rect y="20.46" width="58" height="8.5" rx="2" ry="2"/>
         <rect y="40.92" width="58" height="8.5" rx="2" ry="2"/>
       </svg>
       <svg v-else viewBox="0 0 58 49" id="menu">
-        <title>Menu</title>
+        <!-- <title>Menu</title> -->
         <rect width="58" height="8.5" rx="2" ry="2"/>
         <rect y="20.46" width="58" height="8.5" rx="2" ry="2"/>
         <rect y="40.92" width="58" height="8.5" rx="2" ry="2"/>
@@ -266,6 +266,11 @@ a, a:visited {
   -o-user-select: none;
   user-select: none;
   pointer-events: bounding-box;
+}
+
+.menu:hover {
+  fill: #76cdd0;
+  transition: fill 0.1s ease;
 }
 
 .menu {
