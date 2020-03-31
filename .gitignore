@@ -3,8 +3,6 @@ node_modules
 /dist
 /backup
 
-package-lock.json
-
 # local env files
 .env.local
 .env.*.local
