@@ -85,9 +85,9 @@
 
         <div style="clear:both;padding:10px;border:1px solid #b5b5b5;font-size:16px;position:relative;top:20px;border-radius:3px;" v-if="timerShow">
           <div style="display:inline-block;">
-            Set a custom timer (0 = infinity):&nbsp;
+            Set a custom timer (0 = infinity):
           </div>
-          <div style="display:inline-block;">
+          <div style="margin-left:5px;display:inline-block;">
             <input type="number" placeholder="0" v-model.lazy="$parent.setTimer" style="font-size:14px;padding-left:2px;width:46px;height:17px;border:1px solid #b5b5b5;">
             min.
           </div>
