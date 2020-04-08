@@ -106,6 +106,10 @@
           </ul>
           End by clicking on the center.
           <br>
+          <br>
+          <br>
+          Tip: On a desktop computer, you can meditate with your keyboard's keypad numbers (right side). The keypad numbers have the same positions as the eight experiences in the app, the central start/stop button is the keypad's number 5, and Escape is for closing the stats window.
+          <br>
 
           <div style="font-size:16px;margin-top:60px;"><b>About</b></div>
           <br>

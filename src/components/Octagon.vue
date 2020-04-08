@@ -170,6 +170,15 @@ export default {
     this.sound.soundTouch.load();
     this.sound.soundStart.load();
     this.sound.soundEnd.load();
+
+    document.onkeydown = (evt) => {
+      evt = evt || window.event;
+      let key = evt.keyCode;
+      if (key === 101) {
+        this.startStop();
+      }
+    }
+
   },
   computed: {
     soundFx: function() {
@@ -177,9 +186,53 @@ export default {
     }
   },
   methods: {
+    keypadMeditation: function() {
+      document.onkeydown = (evt) => {
+        evt = evt || window.event;
+        let key = evt.keyCode;
+
+        switch(key) {
+          case 97:
+            // console.log('1');
+            this.onTap(6);
+            break;
+          case 98:
+            this.onTap(5);
+            // console.log('2');
+            break;
+          case 99:
+            this.onTap(4);
+            // console.log('3');
+            break;
+          case 100:
+            this.onTap(7);
+            // console.log('4');
+            break;
+          case 101:
+            this.startStop();
+            break;
+          case 102:
+            this.onTap(3);
+            // console.log('6');
+            break;
+          case 103:
+            this.onTap(8);
+            // console.log('7');
+            break;
+          case 104:
+            this.onTap(1);
+            // console.log('8');
+            break;
+          case 105:
+            this.onTap(2);
+            // console.log('9');
+        }
+      };
+    },
     startStop: function () {
-      
       if (!data.started) {
+        this.closeStat();
+        this.keypadMeditation();
         if (this.soundFx) data.sound.soundStart.cloneNode(true).play();
         data.stat.timeStart = new Date().getTime();
         let touchAreas = document.getElementsByClassName('touch-area');
@@ -203,6 +256,17 @@ export default {
       } 
       else {
         document.body.addEventListener('click', e => { this.closeStat() });
+  
+        document.onkeydown = (evt) => {
+          evt = evt || window.event;
+          let key = evt.keyCode;
+          if (key === 27) {
+            this.closeStat();
+          }
+          if (key === 101) {
+            this.startStop();
+          }
+        }
 
         clearInterval(window.timerVar);
         let touchAreas = document.getElementsByClassName('touch-area');
