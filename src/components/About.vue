@@ -107,9 +107,6 @@
           End by clicking on the center.
           <br>
           <br>
-          <br>
-          Tip: On a desktop computer, you can meditate with your keyboard's keypad numbers (right side). The keypad numbers have the same positions as the eight experiences in the app, the central start/stop button is the keypad's number 5, and Escape is for closing the stats window.
-          <br>
 
           <div style="font-size:16px;margin-top:60px;"><b>About</b></div>
           <br>
@@ -210,9 +207,12 @@
           Vipassana App is <a href="https://github.com/giekaton/vipassana-app" style="color:var(--color-a-social)"  target="_blank">open-source</a>.
           <br>
           <br>
+          After each meditation session, you will see a little window with statistics about your experiences. The data is not saved anywhere and is restarted with every new session.
+          <br>
+          <br>On a desktop computer, you can meditate with your keyboard's keypad numbers (right side). The keypad numbers have the same positions as the eight experiences in the app, the central start/stop button is the keypad's number 5, and Escape is for closing the stats window.
+          <br>
+          <br>
           For contacts and feedback: &#104;i&#x40;v&#x69;p&#x61;s&#x73;a&#x6e;a&#x2e;&#97;&#x70;&#112;
-
-          <!-- After each meditation session, you will see a little window with statistics about your experiences. The data is not saved anywhere and is restarted with every new session. -->
           <br>
           <br>
           <br>
