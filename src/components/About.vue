@@ -181,7 +181,7 @@
           <br>
           <br>
           <div style="clear:both;"></div>
-          There are different ways of how Vipassana can be practiced. Currently the most popular is S. N. Goenka's tradition. Most often it takes a 10-day silent retreat, sometimes it gives exceptionally great results, and after the practice, a student is instructed to continue meditating on his or her own, one hour in the morning and one hour in the evening. Most of the students do not continue this individual practice as it requires too much effort.
+          There are different ways of how Vipassana can be practiced. Currently the most popular is S. N. Goenka's tradition. Most often it takes a 10-day silent retreat, sometimes it gives exceptionally great results, and after the practice, a student is instructed to continue meditating on his or her own, one hour in the morning and one hour in the evening.
           <br>
           <br>
           Besides Goenka's Vipassana, there is also another modern way of practicing it, instructed by Shinzen Young in his audiobook "Five Classic Meditations".
@@ -204,20 +204,19 @@
           Vipassana App on most of mobile and desktop devices and use it even when you are offline. It doesn't require an internet connection.
           <br>
           <br>
-          Vipassana App is <a href="https://github.com/giekaton/vipassana-app" style="color:var(--color-a-social)"  target="_blank">open-source</a>.
-          <br>
-          <br>
           After each meditation session, you will see a little window with statistics about your experiences. The data is not saved anywhere and is restarted with every new session.
           <br>
           <br>On a desktop computer, you can meditate with your keyboard's keypad numbers (right side). The keypad numbers have the same positions as the eight experiences in the app, the central start/stop button is the keypad's number 5, and Escape is for closing the stats window.
           <br>
           <br>
-          For contacts and feedback: &#104;i&#x40;v&#x69;p&#x61;s&#x73;a&#x6e;a&#x2e;&#97;&#x70;&#112;
+          Vipassana App is <a href="https://github.com/giekaton/vipassana-app" style="color:var(--color-a-social)"  target="_blank">open-source</a>.
+          <br>
+          <br>
+          Contacts and feedback: &#104;i&#x40;v&#x69;p&#x61;s&#x73;a&#x6e;a&#x2e;&#97;&#x70;&#112;
           <br>
           <br>
           <br>
-          <br>
-          <span class="link-alike" v-on:click="$parent.closeModal">Close</span>
+          <router-link to="/" class="link-alike">Close</router-link>
           <div style="height:20px;"></div>
         </div>
 
