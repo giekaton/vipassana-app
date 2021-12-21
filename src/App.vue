@@ -217,6 +217,17 @@ a, a:visited {
   color: #09283a;
 }
 
+.content {
+  font-size: 14.5px;
+  padding-top:10px;
+}
+
+h2 {
+  font-size:16px;
+  margin-bottom:20px;
+  margin-top:70px;
+}
+
 .icon-right {
   margin-right:25px;
   fill: var(--fill-icon-right);
