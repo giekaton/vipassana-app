@@ -118,7 +118,8 @@ export default {
 
 <style>
 :root {
-  --color-bg: #051b27;
+  /* --color-bg: #051b27; */
+  --color-bg: #000E15;
   --color-bg-modal: #ffffff;
   --color-modal: black;
   --fill-icon-right: black;

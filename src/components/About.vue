@@ -101,7 +101,7 @@
           <ul>
             <li>Observe your current state.</li>
             <li>Each time you notice an experience, click on its symbol.</li>
-            <li>Do not crave pleasant experiences and do not try to avoid the negative ones.</li>
+            <li>Do not crave pleasant experiences and do not try to avoid negative ones. Just observe and notice them.</li>
             <li>Continue in a similar manner.</li>
           </ul>
           End by clicking on the center.
@@ -174,19 +174,10 @@
           <br>
           <br>
           <div style="clear:both;"></div>
-          There are different ways of how Vipassana can be practiced. Currently the most popular is S. N. Goenka's tradition. Most often it takes a 10-day silent retreat, sometimes it gives exceptionally great results, and after the practice, a student is instructed to continue meditating on his or her own, one hour in the morning and one hour in the evening.
+          Because of its visual and gamified nature, the Vipassana App works instantly and effortlessly. It activates our inner observer who is witnessing our experiences. Even one minute of the practice can break an ongoing pattern of thoughts and feelings, and allow us to look at our experiences from a new and clear prespective.
           <br>
           <br>
-          Besides Goenka's Vipassana, there is also another modern way of practicing it, instructed by Shinzen Young in his audiobook "Five Classic Meditations".
-          <br>
-          <br>
-          While Goenka's version of Vipassana is more profound and can bring more significant results, Shinzen Young's Vipassana is effective on a day to day basis. Even a few minutes of practice can give positive results. Therefore this app is based on the Shinzen Young's version of Vipassana.
-          <br>
-          <br>
-          Because of its visual and gamified nature, the Vipassana App works instantly and effortlessly. It activates our inner observer who is witnessing our experiences. Even one minute of the practice can break an ongoing pattern of thoughts or feelings, and allow us to look at our experiences from a new and clear prespective.
-          <br>
-          <br>
-          This app is not a substitute for the 10 days retreat, but it can work efficiently under any modern living conditions. The practice is immediate because of the gamified nature of the app - you can "play" it only when you shift your attention to your inner world. When you play-meditate with the Vipassana App, you detach from the stimulating environment and start observing what is happening inside - this practice is centering, relaxing and leads to meaningful insights. A quick break from being always busy.
+          This app is not a substitute for the 10 days Vipassana retreat, but it can work efficiently under any modern living conditions. The practice is immediate because of the gamified nature of the app - you can "play" it only when you shift your attention to your inner world. When you play-meditate with the Vipassana App, you detach from the stimulating environment and start observing what is happening inside - this practice is centering, relaxing and leads to meaningful insights.
 
           <h2>App</h2>
 

@@ -1,8 +1,8 @@
-## Vipassana App - Instant Meditation Practice
+## Vipassana Meditation App
 
-Experience it at __https://vipassana.app__
-
-It's a Vue.js Progressive Web App (PWA).
+Vue.js Progressive Web App (PWA)
+<br>
+__https://vipassana.app__
 <br>
 <br>
 
@@ -28,25 +28,23 @@ Compiles and minifies for production: `npm run build`
 
 Vipassana is a classic Buddhist meditation. It can be practiced by anyone, as there is nothing inherently religious about it.
 
-Vipassana does not involve any esoteric techniques and the only thing required is to see reality the way it manifests itself at any given moment. In Pali language word vipasyana means seeing things clearly, and this is the essence of Vipassana practice. 
+Vipassana does not involve any esoteric techniques and the only thing required is to see reality the way it manifests itself at any given moment. In the Pali language, the word vipasyana means seeing things clearly, and this is the essence of the Vipassana practice.
 
-The core principle of Vipassana is not to expect anything and accept everything. Experiences come and go. This principle is called 'Equanimity', and it requires you not to crave pleasant experiences, and not try to avoid the unpleasant ones. You should only see the reality the way it is at any given moment. 
+The core principle of Vipassana is not to expect anything and accept everything. Experiences come and go. This principle is called 'Equanimity', and it requires you not to crave pleasant experiences, and not try to avoid the unpleasant ones. You should only see the reality the way it is at any given moment.
 
-The experiences that you notice can be your body sensations, feelings or thoughts. They are represented in the practice window by eight symbols. Every time you notice an experience, click on its symbol. It can appear several times repeatedly, then just notice-click it several times.
+Experiences that you notice can be your body sensations, feelings or thoughts. They are represented in the practice window by eight symbols. Every time you notice an experience, click on its symbol. It can appear several times repeatedly, then just notice-click it several times.
 
 The eight symbols represent the following experiences:
 
 ![types-of-experiences](https://vipassana.app/img/github-03.png)
 
-In general, there are many ways how Vipassana can be practiced. Currently the most popular is S. N. Goenka's tradition. Most often it takes a 10-day silent retreat, sometimes it gives exceptionally great results, and after the practice, a student is instructed to continue meditating on his or her own, one hour in the morning and one hour in the evening. Most of the students never continue this individual practice because it requires too much effort. 
+#### App
 
-Besides Goenka's Vipassana, there is also another modern way of practicing it, instructed by Shinzen Young in his audiobook "Five Classic Meditations". 
+You can install the Vipassana App on most of mobile and desktop devices and use it even when you are offline. It doesn't require an internet connection.
 
-While Goenka's version of Vipassana is more profound and can bring more significant results, Shinzen Young's Vipassana is effective on a day to day basis. Even a few minutes of practice can give positive results. Therefore this app is based on the Shinzen Young's version of Vipassana. 
+After each meditation session, you will see a little window with statistics about your experiences. The data is not saved anywhere and is restarted with every new session.
 
-This app is not a substitute for a 10 days retreat, but it can work efficiently under any modern living conditions. The practice is immediate because of the gamified nature of the app - you can "play" it only when you shift your attention to your inner world. When you play-meditate with the app, you detach from the stimulating environment and start observing what is happening inside - this practice is centering, relaxing and leads to meaningful insights. A quick break from being always busy. 
-
-You can install this PWA app on your mobile device and use it even when you are offline. It doesn't require an internet connection. 
+On a desktop computer, you can meditate with your keyboard's keypad numbers (right side). The keypad numbers have the same positions as the eight experiences in the app, the central start/stop button is the keypad's number 5, and Escape is for closing the stats window.
 <br>
 <br>
 
